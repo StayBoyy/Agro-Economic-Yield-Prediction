@@ -1,4 +1,4 @@
-                                                                        **Farmer Income Prediction for Improved Financial Access**
+  **Farmer Income Prediction for Improved Financial Access**
 
 #_1. Project Overview_ :
 
